@@ -71,6 +71,11 @@ color: white;
   padding: 10px;
 }
 
+.list-inline i {
+  font-size: 36px;
+  opacity: 0.4;
+}
+
 #introduction p {
   margin-bottom: 30px;
 }
